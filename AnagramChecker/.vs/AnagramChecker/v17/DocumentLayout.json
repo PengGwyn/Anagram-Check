@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Avaxyd\\OneDrive - Department of Education\\Documents\\CPlusPlus\\AnagramChecker\\Anagram-Check\\AnagramChecker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02224147-638F-414C-A008-4F3BB65CA3FE}|AnagramChecker.vcxproj|C:\\Users\\Avaxyd\\OneDrive - Department of Education\\Documents\\CPlusPlus\\AnagramChecker\\Anagram-Check\\AnagramChecker\\AnagramChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02224147-638F-414C-A008-4F3BB65CA3FE}|AnagramChecker.vcxproj|solutionrelative:AnagramChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnagramChecker.cpp",
+              "DocumentMoniker": "C:\\Users\\Avaxyd\\OneDrive - Department of Education\\Documents\\CPlusPlus\\AnagramChecker\\Anagram-Check\\AnagramChecker\\AnagramChecker.cpp",
+              "RelativeDocumentMoniker": "AnagramChecker.cpp",
+              "ToolTip": "C:\\Users\\Avaxyd\\OneDrive - Department of Education\\Documents\\CPlusPlus\\AnagramChecker\\Anagram-Check\\AnagramChecker\\AnagramChecker.cpp",
+              "RelativeToolTip": "AnagramChecker.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T10:32:48.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
